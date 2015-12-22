@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1400246257 source:e:\c++\code\test\main.cpp
+	<iostream>
+
+1400256631 source:e:\c++\code\code forces\test\main.cpp
+	<iostream>
+
+1408175216 source:d:\c++\code\code forces\test\main.cpp
+	<bits/stdc++.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1400255290 source:e:\c++\code\code forces\a. helpful maths\main.cpp
+	<iostream>
+
+1406491612 source:d:\c++\code\code forces\a. helpful maths\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+

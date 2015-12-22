@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400258821 source:e:\c++\code\code forces\a. petya and strings\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+
